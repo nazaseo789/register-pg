@@ -1,0 +1,15 @@
+{
+  "name": "สมัครสล็อตpg",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "สมัครได้ที่นี่แหละเว็บตรงการันตี",
+  "keywords": [
+    "สมัครสล็อตpg",
+    "สมัครสล็อต pg"
+  ],
+  "repository": "https://github.com/nazaseo789/สมัครสล็อตpg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
