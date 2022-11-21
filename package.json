@@ -1,5 +1,5 @@
 {
-  "name": "สมัครสล็อตpg สุดเทพเว็บตรงแตกง่ายจ่ายจริงรับ ธนาคารและวอลเล็ต",
+  "name": "สมัครสล็อตpg เว็บตรงแตกง่ายจ่ายจริงรับ ธนาคารและวอลเล็ต",
   "theme": "syntax",
   "version": "0.0.0",
   "description": "สมัครได้ที่นี่แหละเว็บตรงการันตี",
@@ -7,9 +7,17 @@
     "สมัครสล็อตpg",
     "สมัครสล็อต pg"
   ],
-  "repository": "https://github.com/nazaseo789/register-pg",
+  "repository": {
+    "type" : "git" , "url" : "https://github.com/nazaseo789/register-pg.git",
+  }
+  "bugs" : {
+    "url" : "https://github.com/nazaseo789/register-pg/issues"
+  }
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
+  },
+  "devDependencies": {
+    "jasmine-browser-runner": "^1.2.0",
+    "jasmine-core": "^4.5.0"
   }
-}
